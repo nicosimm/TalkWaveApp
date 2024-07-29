@@ -9,10 +9,10 @@ const app = express();
 
 // Create MySQL connection
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'c237_forumapp'
+    host: 'sql.freedb.tech',
+    user: 'freedb_happytofu',
+    password: '$VT#k9CXg*3uK?u',
+    database: 'freedb_talkwaveapp'
 });
 
 connection.connect(error => {

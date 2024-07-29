@@ -18,11 +18,11 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `c237_forumapp`
+-- Database: `freedb_talkwaveapp`
 --
-DROP DATABASE IF EXISTS `c237_forumapp`;
-CREATE DATABASE IF NOT EXISTS `c237_forumapp` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `c237_forumapp`;
+
+CREATE DATABASE IF NOT EXISTS `freedb_talkwaveapp` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `freedb_talkwaveapp`;
 
 -- --------------------------------------------------------
 
